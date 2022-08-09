@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/luni_rohit" target="blank"><img src="https://img.shields.io/twitter/follow/luni_rohit?logo=twitter&style=for-the-badge" alt="luni_rohit" /></a> </p>
 
-- 🔭 I’m currently working on [ML and Data Science](https://github.com/Rohit4242)
+- 🔭 I’m currently working on [Web Devlopment](https://github.com/Rohit4242)
 
 - 🌱 I’m currently learning on online **https://www.google.com/, https://www.youtube.com/**
 
@@ -20,8 +20,6 @@
 - 💬 Ask me about **rohitluni4242@gmail.com**
 
 - 📫 How to reach me **rohitluni4242@gmail.com**
-
-- ⚡ Fun fact **I think i am a funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
