@@ -5,15 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit4242" alt="rohit4242" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/luni_rohit" target="blank"><img src="https://img.shields.io/twitter/follow/luni_rohit?logo=twitter&style=for-the-badge" alt="luni_rohit" /></a> </p>
-
 - 🔭 I’m currently working on [Web Devlopment](https://github.com/Rohit4242)
 
 - 🌱 I’m currently learning on online **https://www.google.com/, https://www.youtube.com/**
-
-- python basics project [Mobile informations](https://github.com/rohit4242/BasicsProject/tree/main/Mobileinformations)
-
-- python useful project [internet speed tester](https://github.com/rohit4242/BasicsProject/tree/main/speedtest)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rohit4242?tab=repositories](https://github.com/Rohit4242?tab=repositories)
 
