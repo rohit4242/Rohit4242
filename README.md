@@ -1,28 +1,80 @@
-### Hi there 👋<h1 align="center">Hi 👋, I'm Rohit Luni</h1>
-<h3 align="center">I am a Student</h3>
+<p align="center">
+    <img src="svg/inspiration.svg" width="480px"/>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit4242&label=Profile%20views&color=0e75b6&style=flat" alt="rohit4242" /> </p>
+<h2 align="center">Hi There</h2>
+<p align="center">My name is Rohit and welcome to my github profile</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit4242" alt="rohit4242" /></a> </p>
+```zsh
+-> ~/Portfolio git:(main) > ./start.sh
+```
 
-- 🔭 I’m currently working on [Web Devlopment](https://github.com/Rohit4242)
+<img align="left" src="svg/givingback.svg" height="222px"/>
 
-- 🌱 I’m currently learning on online **https://www.google.com/, https://www.youtube.com/**
+```csharp
+    Human Information
+    ------------------------------------------
+    Name: Rohit
+    Lastname: Luni
+    Nickname: Rohit
+    Gender: Male
+    Age: 19
+    Hobbies:  ["Coding"], ["Writing a Code"] ["Music"]
+    Languages: ["English"], ["Hindi"],["Gujarati"],
+```
 
-- 👨‍💻 All of my projects are available at [https://github.com/Rohit4242?tab=repositories](https://github.com/Rohit4242?tab=repositories)
+<br>
 
-- 💬 Ask me about **rohitluni4242@gmail.com**
+<div align="center">
+    <table align="left">
+        <tr>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/csharp.png" width="65px"/>
+                <br /> C#
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/java.png" width="65px"/>
+                <br /> Java
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/javascript.png" width="65px"/>
+                <br /> Javascript
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/postgresql.png" width="65px"/>
+                <br /> Postgresql
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/python.png" width="65px"/>
+                <br /> Python
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/sass.png" width="65px"/>
+                <br /> Sass
+            </td>
+        </tr>
+    </table>
+    <img src="svg/artificialintelligence.svg" height="225px"/>
+</div>
 
-- 📫 How to reach me **rohitluni4242@gmail.com**
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<img align="left" src="svg/webdevelopment.svg" height="277px"/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+```csharp
+    System Information
+    ------------------------------------------
+    OS: Windows 10
+    Kernel: 21H1, Build ver. 19043.1110
+    WM: Windows Explorer
+    Shell: powershell
+    Terminal: alacritty 0.7.2
+    Resolution: 1920x1080
+    Theme: Dark
+    CPU: Intel Core i5 11400 @ 2.6GHz
+    GPU: Nvidia GeForce GTX 1050
+    Memory:  3072MB / 8192MB 3200MHz
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit4242&show_icons=true&locale=en&layout=compact" alt="rohit4242" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit4242&show_icons=true&locale=en" alt="rohit4242" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit4242&" alt="rohit4242" /></p>
+```
