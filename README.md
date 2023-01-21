@@ -62,7 +62,7 @@
 <br>
 
 <!-- <img align="left" src="svg/webdevelopment.svg" height="277px"/> -->
- <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="222px" />
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="222px" />
 
 ```csharp
     System Information
