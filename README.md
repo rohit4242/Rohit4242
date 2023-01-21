@@ -1,5 +1,6 @@
 <p align="center">
-    <img src="svg/inspiration.svg" width="480px"/>
+<!--     <img src="svg/inspiration.svg" width="480px"/> -->
+    <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
 </p>
 
 <h2 align="center">Hi There</h2>
