@@ -16,9 +16,9 @@
     ------------------------------------------
     Name: Rohit
     Lastname: Luni
-    Nickname: L0um15
+    Nickname: Rohit
     Gender: Male
-    Age: 20
+    Age: 19
     Hobbies: ["Solve Problem"], ["Coding"], ["Music"]
     Languages: ["English"], ["Hindi"], ["Gujarati"]
 ```
