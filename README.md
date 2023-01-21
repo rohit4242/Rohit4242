@@ -1,6 +1,5 @@
 <p align="center">
-<!--     <img src="svg/inspiration.svg" width="480px"/> -->
-    <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
+    <img src="svg/inspiration.svg" width="480px"/>
 </p>
 
 <h2 align="center">Hi There</h2>
@@ -10,7 +9,8 @@
 -> ~/Portfolio git:(main) > ./start.sh
 ```
 
-<img align="left" src="svg/givingback.svg" height="222px"/>
+ <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
+<!-- <img align="left" src="svg/givingback.svg" height="222px"/> -->
 
 ```csharp
     Human Information
