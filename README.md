@@ -16,12 +16,12 @@
 
 <!-- - ⚡ Fun fact **I still believe Batman's real :))** -->
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/uptopali" target="blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="uptopali" height="50" width="60" /></a>
 <a href="https://lenster.xyz/u/alijafri" target="blank"><img align="center" src="https://lenster.xyz/logo.svg" alt="alijafri" height="50" width="60" /></a>
 <a href="https://alijafri.hashnode.dev/" target="blank"><img align="center" src="https://simpleicons.org/icons/hashnode.svg" alt="@uptopali" height="50" width="60" /></a>
-</p>
+</p> -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/html5.svg" alt="html5" width="50" height="60"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/css3.svg" alt="css3" width="50" height="60"/> </a> <img src="https://simpleicons.org/icons/javascript.svg" alt="javascript" width="50" height="60"/> </a> <img src="https://simpleicons.org/icons/ethereum.svg" alt="Ethereum" width="50" height="60"/> </a> <img src="https://simpleicons.org/icons/solidity.svg" alt="Solidity" width="50" height="60"/> </a> <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/MetaMask_Fox.svg" alt="MetaMask" width="50" height="60"/> </a> <img src="https://simpleicons.org/icons/git.svg" alt="Git" width="50" height="60"/> </a> <img src="https://www.svgrepo.com/show/184143/java.svg" alt="JAVA" width="50" height="60"/> </a> <img src="https://simpleicons.org/icons/cplusplus.svg" alt="Cplusplus" width="50" height="60"/> </a>
