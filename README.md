@@ -16,9 +16,9 @@
     ------------------------------------------
     Name: Rohit
     Lastname: Luni
-    Nickname: Rohit
+    Nickname: L0um15
     Gender: Male
-    Age: 19
+    Age: 20
     Hobbies: ["Solve Problem"], ["Coding"], ["Music"]
     Languages: ["English"], ["Hindi"], ["Gujarati"]
 ```
@@ -61,8 +61,7 @@
 
 <br>
 
-<!-- <img align="left" src="svg/webdevelopment.svg" height="277px"/> -->
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="222px" />
+<img align="left" src="svg/webdevelopment.svg" height="277px"/>
 
 ```csharp
     System Information
