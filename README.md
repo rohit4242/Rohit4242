@@ -9,7 +9,7 @@
 -> ~/Portfolio git:(main) > ./start.sh
 ```
 
- <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
+ <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="222px" />
 <!-- <img align="left" src="svg/givingback.svg" height="222px"/> -->
 
 ```csharp
