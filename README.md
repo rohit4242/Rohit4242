@@ -1,80 +1,111 @@
+<h1 align="center"><b>Hi , I'm Rohit Luni </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<br>
+
+## <picture><img src = "./gif/about_me.gif.crdownload" width = 50px></picture> **About me**
+
+<picture> <img align="right" src = "./gif/Right_Side.gif" width = 250px></picture>
+
+<br>
+
+- A passionate Self-taught Full-Stack developer
+<!-- - Playing CTF's at spare time -->
+- Currently learning Web Development by Self
+- Personal website [link](https://github.com/rohit4242)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://github.com/rohit4242)
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
+<br>
+
 <p align="center">
-    <img src="svg/inspiration.svg" width="480px"/>
+
+- **Languages**:
+  ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+
+<br>   
+    
+- **Front-End Development**:
+
+![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+<br>
+
+- **Cloud Hosting**:
+
+  ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+
+<br>
+
+- **Softwares and Tools**:
+
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+<br>
+
+- **Extras**:
+
+  ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
 </p>
 
-<h2 align="center">Hi There</h2>
-<p align="center">My name is Rohit and welcome to my github profile</p>
+<br>
+<br>
 
-```zsh
--> ~/Portfolio git:(main) > ./start.sh
-```
-
-<img align="left" src="svg/givingback.svg" height="222px"/>
-
-```csharp
-    Human Information
-    ------------------------------------------
-    Name: Rohit
-    Lastname: Luni
-    Nickname: Rohit
-    Gender: Male
-    Age: 19
-    Hobbies: ["Solve Problem"], ["Coding"], ["Music"]
-    Languages: ["English"], ["Hindi"], ["Gujarati"]
-```
+---
 
 <br>
 
-<div align="center">
-    <table align="left">
-        <tr>
-            <td align="center" width="140" height="112.43">
-                <img src="icons/csharp.png" width="65px"/>
-                <br /> C#
-            </td>
-            <td align="center" width="140" height="112.43">
-                <img src="icons/java.png" width="65px"/>
-                <br /> Java
-            </td>
-            <td align="center" width="140" height="112.43">
-                <img src="icons/javascript.png" width="65px"/>
-                <br /> Javascript
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="140" height="112.43">
-                <img src="icons/postgresql.png" width="65px"/>
-                <br /> Postgresql
-            </td>
-            <td align="center" width="140" height="112.43">
-                <img src="icons/python.png" width="65px"/>
-                <br /> Python
-            </td>
-            <td align="center" width="140" height="112.43">
-                <img src="icons/sass.png" width="65px"/>
-                <br /> Sass
-            </td>
-        </tr>
-    </table>
-    <img src="svg/artificialintelligence.svg" height="225px"/>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
+<br>
+
+<br>
+<br>
+<br>
+
+---
+
+<br>
+<br>
+
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+
+<br>
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+<br>
+<br>
+
+<div align='center'>
+
+## <b>Rohit Luni</b>
+
 </div>
+<br>
+<br>
+<br>
+<br>
+
+---
 
 <br>
 
-<img align="left" src="svg/webdevelopment.svg" height="277px"/>
+Credit: [Rohit Luni](https://github.com/0xabdulkhalid)
 
-```csharp
-    System Information
-    ------------------------------------------
-    OS: Windows 10
-    Kernel: 21H1, Build ver. 19043.1110
-    WM: Windows Explorer
-    Shell: powershell
-    Terminal: alacritty 0.7.2
-    Resolution: 1920x1080
-    Theme: Dark
-    CPU: Intel Core i5 11400 @ 2.6GHz
-    GPU: Nvidia GeForce GTX 1050
-    Memory:  3072MB / 8192MB 3200MHz
-
-```
+Last Edited on: 22/03/2023
