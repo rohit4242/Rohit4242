@@ -106,6 +106,6 @@
 
 <br>
 
-Credit: [Rohit Luni](https://github.com/0xabdulkhalid)
+Credit: [Rohit Luni](https://github.com/rohit4242)
 
 Last Edited on: 22/03/2023
